@@ -74,6 +74,11 @@ header .profile-image {
   transition: all .5s;
 }
 
+.resume {
+  text-align: center;
+  padding-top: 60px;
+}
+
 .tag {
   background-color: #efefef;
   color: black;
